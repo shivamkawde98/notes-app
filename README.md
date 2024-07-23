@@ -14,24 +14,22 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Description
+This is a web application designed for creating and managing notes. The app features an intuitive user interface with components such as a navbar, features section, and reviews section.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# notes-app
+# Technologies Used
+# Framework:
+<img width="1109" alt="Screenshot 2024-07-23 at 4 45 20 PM" src="https://github.com/user-attachments/assets/66e737ec-68c7-474d-9e13-8eec6af9adf3">
+<img width="1079" alt="Screenshot 2024-07-23 at 4 45 11 PM" src="https://github.com/user-attachments/assets/c3951f0d-57f3-4988-8b0a-c89ebe95ff81">
+Next.js
+# Styling: 
+Tailwind CSS
+# Packages Used
+react-carousel
+react-modal
+# Features
+Navbar: Easy navigation throughout the app.
+Notes Management: Create, edit, and delete notes seamlessly.
+Reviews Section: User reviews and feedback.
+Responsive Design: Optimized for all device sizes.
