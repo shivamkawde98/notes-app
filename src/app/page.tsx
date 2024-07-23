@@ -1,8 +1,12 @@
+"use client";
 import { Feature } from "@/components/Feature";
 import { Footer } from "@/components/Footer";
 import { NavBar } from "@/components/Navbar";
 import { Review } from "@/components/Review";
+import { Trending } from "@/components/Trending";
 import { feature, reviewData } from "@/utils";
+import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
+import { Carousel } from "react-responsive-carousel";
 
 export default function Home() {
   return (
@@ -24,10 +28,14 @@ export default function Home() {
             })}
           </div>
         </section>
+
+        <Trending />
+
         <section className="w-full px-4 py-20 bg-gray-50">
           <h2 className="text-3xl font-bold text-center text-[#ff00ff]">
             What Our Users Say
           </h2>
+
           {reviewData.map((data, i) => {
             return (
               <Review

@@ -1,6 +1,6 @@
 export const NavBar = () => {
   return (
-    <section className="w-full px-5 py-5 text-center bg-[#ff00ff] welcome-animation ">
+    <section className="w-full px-5 py-5 text-center bg-[#ff00ff] scale-up-animation">
       <div className="flex justify-between">
         <div>
           <h3 className="text-5xl font-bold text-white">Notes App</h3>
@@ -9,7 +9,7 @@ export const NavBar = () => {
         <div className="flex gap-5 items-center py-5">
           <input
             className="h-[45px] w-[300px] rounded-full outline-none input-centered-placeholder text-center"
-            placeholder="Search Notes"
+            placeholder="Search Keywords"
           />
           <h4 className="text-white hover:text-black cursor-pointer">Go Pro</h4>
           <h4 className="text-white hover:text-black cursor-pointer">
