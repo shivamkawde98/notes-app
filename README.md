@@ -20,8 +20,6 @@ This is a web application designed for creating and managing notes. The app feat
 
 # Technologies Used
 # Framework:
-<img width="1109" alt="Screenshot 2024-07-23 at 4 45 20 PM" src="https://github.com/user-attachments/assets/66e737ec-68c7-474d-9e13-8eec6af9adf3">
-<img width="1079" alt="Screenshot 2024-07-23 at 4 45 11 PM" src="https://github.com/user-attachments/assets/c3951f0d-57f3-4988-8b0a-c89ebe95ff81">
 Next.js
 # Styling: 
 Tailwind CSS
@@ -33,3 +31,5 @@ Navbar: Easy navigation throughout the app.
 Notes Management: Create, edit, and delete notes seamlessly.
 Reviews Section: User reviews and feedback.
 Responsive Design: Optimized for all device sizes.
+<img width="1109" alt="Screenshot 2024-07-23 at 4 45 20 PM" src="https://github.com/user-attachments/assets/66e737ec-68c7-474d-9e13-8eec6af9adf3">
+<img width="1079" alt="Screenshot 2024-07-23 at 4 45 11 PM" src="https://github.com/user-attachments/assets/c3951f0d-57f3-4988-8b0a-c89ebe95ff81">
